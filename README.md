@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/abhi5h3k-mcp-email-verify-badge.png)](https://mseep.ai/app/abhi5h3k-mcp-email-verify)
+
 # [MCP Email Verify](https://anthropic-mcp.hashnode.dev/model-context-protocol-mcp-a-beginners-guide-to-the-future-of-ai-communication)  
 
 
